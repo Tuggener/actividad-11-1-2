@@ -1,0 +1,11 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tarjeta {
+    width: 20%;
+    height: 10%;
+    background-color: rgb(193, 145, 231);
+    padding: 2 px;
+    border-radius: 5px;
+}
